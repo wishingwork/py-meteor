@@ -1,6 +1,8 @@
 #pygrib 
 #doc - http://jswhit.github.io/pygrib/docs/index.html
 #Github - https://github.com/jswhit/pygrib
+#
+#Grib Data source - https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs
 
 import pygrib
 grib = '../../data/gfs_3_20200601_0000_000.grb2'
