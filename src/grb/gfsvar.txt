@@ -1,0 +1,522 @@
+0##hybrid##1##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+1##hybrid##1##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+2##hybrid##1##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+3##hybrid##1##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+4##hybrid##1##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+5##unknown##0##Maximum/Composite radar reflectivity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+6##surface##0##Visibility##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+7##unknown##0##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+8##unknown##0##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+9##unknown##0##Ventilation Rate##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+10##surface##0##Wind speed (gust)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+11##isobaricInPa##40##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+12##isobaricInPa##40##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+13##isobaricInPa##40##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+14##isobaricInPa##40##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+15##isobaricInhPa##1##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+16##isobaricInhPa##1##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+17##isobaricInhPa##1##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+18##isobaricInhPa##1##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+19##isobaricInhPa##1##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+20##isobaricInhPa##1##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+21##isobaricInhPa##2##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+22##isobaricInhPa##2##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+23##isobaricInhPa##2##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+24##isobaricInhPa##2##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+25##isobaricInhPa##2##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+26##isobaricInhPa##2##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+27##isobaricInhPa##3##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+28##isobaricInhPa##3##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+29##isobaricInhPa##3##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+30##isobaricInhPa##3##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+31##isobaricInhPa##3##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+32##isobaricInhPa##3##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+33##isobaricInhPa##5##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+34##isobaricInhPa##5##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+35##isobaricInhPa##5##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+36##isobaricInhPa##5##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+37##isobaricInhPa##5##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+38##isobaricInhPa##5##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+39##isobaricInhPa##7##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+40##isobaricInhPa##7##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+41##isobaricInhPa##7##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+42##isobaricInhPa##7##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+43##isobaricInhPa##7##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+44##isobaricInhPa##7##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+45##isobaricInhPa##10##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+46##isobaricInhPa##10##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+47##isobaricInhPa##10##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+48##isobaricInhPa##10##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+49##isobaricInhPa##10##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+50##isobaricInhPa##10##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+51##isobaricInhPa##10##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+52##isobaricInhPa##15##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+53##isobaricInhPa##15##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+54##isobaricInhPa##15##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+55##isobaricInhPa##15##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+56##isobaricInhPa##20##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+57##isobaricInhPa##20##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+58##isobaricInhPa##20##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+59##isobaricInhPa##20##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+60##isobaricInhPa##20##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+61##isobaricInhPa##20##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+62##isobaricInhPa##20##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+63##isobaricInhPa##30##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+64##isobaricInhPa##30##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+65##isobaricInhPa##30##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+66##isobaricInhPa##30##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+67##isobaricInhPa##30##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+68##isobaricInhPa##30##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+69##isobaricInhPa##30##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+70##isobaricInhPa##40##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+71##isobaricInhPa##40##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+72##isobaricInhPa##40##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+73##isobaricInhPa##40##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+74##isobaricInhPa##50##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+75##isobaricInhPa##50##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+76##isobaricInhPa##50##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+77##isobaricInhPa##50##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+78##isobaricInhPa##50##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+79##isobaricInhPa##50##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+80##isobaricInhPa##50##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+81##isobaricInhPa##50##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+82##isobaricInhPa##50##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+83##isobaricInhPa##50##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+84##isobaricInhPa##50##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+85##isobaricInhPa##50##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+86##isobaricInhPa##50##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+87##isobaricInhPa##70##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+88##isobaricInhPa##70##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+89##isobaricInhPa##70##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+90##isobaricInhPa##70##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+91##isobaricInhPa##70##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+92##isobaricInhPa##70##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+93##isobaricInhPa##70##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+94##isobaricInhPa##100##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+95##isobaricInhPa##100##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+96##isobaricInhPa##100##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+97##isobaricInhPa##100##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+98##isobaricInhPa##100##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+99##isobaricInhPa##100##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+100##isobaricInhPa##100##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+101##isobaricInhPa##100##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+102##isobaricInhPa##100##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+103##isobaricInhPa##100##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+104##isobaricInhPa##100##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+105##isobaricInhPa##100##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+106##isobaricInhPa##100##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+107##isobaricInhPa##100##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+108##isobaricInhPa##100##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+109##isobaricInhPa##150##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+110##isobaricInhPa##150##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+111##isobaricInhPa##150##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+112##isobaricInhPa##150##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+113##isobaricInhPa##150##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+114##isobaricInhPa##150##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+115##isobaricInhPa##150##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+116##isobaricInhPa##150##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+117##isobaricInhPa##150##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+118##isobaricInhPa##150##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+119##isobaricInhPa##150##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+120##isobaricInhPa##150##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+121##isobaricInhPa##150##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+122##isobaricInhPa##150##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+123##isobaricInhPa##150##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+124##isobaricInhPa##200##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+125##isobaricInhPa##200##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+126##isobaricInhPa##200##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+127##isobaricInhPa##200##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+128##isobaricInhPa##200##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+129##isobaricInhPa##200##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+130##isobaricInhPa##200##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+131##isobaricInhPa##200##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+132##isobaricInhPa##200##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+133##isobaricInhPa##200##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+134##isobaricInhPa##200##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+135##isobaricInhPa##200##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+136##isobaricInhPa##200##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+137##isobaricInhPa##200##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+138##isobaricInhPa##200##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+139##isobaricInhPa##250##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+140##isobaricInhPa##250##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+141##isobaricInhPa##250##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+142##isobaricInhPa##250##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+143##isobaricInhPa##250##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+144##isobaricInhPa##250##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+145##isobaricInhPa##250##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+146##isobaricInhPa##250##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+147##isobaricInhPa##250##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+148##isobaricInhPa##250##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+149##isobaricInhPa##250##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+150##isobaricInhPa##250##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+151##isobaricInhPa##250##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+152##isobaricInhPa##250##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+153##isobaricInhPa##250##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+154##isobaricInhPa##300##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+155##isobaricInhPa##300##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+156##isobaricInhPa##300##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+157##isobaricInhPa##300##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+158##isobaricInhPa##300##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+159##isobaricInhPa##300##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+160##isobaricInhPa##300##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+161##isobaricInhPa##300##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+162##isobaricInhPa##300##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+163##isobaricInhPa##300##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+164##isobaricInhPa##300##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+165##isobaricInhPa##300##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+166##isobaricInhPa##300##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+167##isobaricInhPa##300##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+168##isobaricInhPa##300##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+169##isobaricInhPa##350##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+170##isobaricInhPa##350##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+171##isobaricInhPa##350##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+172##isobaricInhPa##350##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+173##isobaricInhPa##350##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+174##isobaricInhPa##350##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+175##isobaricInhPa##350##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+176##isobaricInhPa##350##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+177##isobaricInhPa##350##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+178##isobaricInhPa##350##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+179##isobaricInhPa##350##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+180##isobaricInhPa##350##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+181##isobaricInhPa##350##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+182##isobaricInhPa##350##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+183##isobaricInhPa##350##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+184##isobaricInhPa##400##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+185##isobaricInhPa##400##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+186##isobaricInhPa##400##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+187##isobaricInhPa##400##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+188##isobaricInhPa##400##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+189##isobaricInhPa##400##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+190##isobaricInhPa##400##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+191##isobaricInhPa##400##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+192##isobaricInhPa##400##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+193##isobaricInhPa##400##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+194##isobaricInhPa##400##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+195##isobaricInhPa##400##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+196##isobaricInhPa##400##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+197##isobaricInhPa##400##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+198##isobaricInhPa##400##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+199##isobaricInhPa##450##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+200##isobaricInhPa##450##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+201##isobaricInhPa##450##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+202##isobaricInhPa##450##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+203##isobaricInhPa##450##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+204##isobaricInhPa##450##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+205##isobaricInhPa##450##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+206##isobaricInhPa##450##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+207##isobaricInhPa##450##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+208##isobaricInhPa##450##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+209##isobaricInhPa##450##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+210##isobaricInhPa##450##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+211##isobaricInhPa##450##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+212##isobaricInhPa##450##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+213##isobaricInhPa##500##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+214##isobaricInhPa##500##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+215##isobaricInhPa##500##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+216##isobaricInhPa##500##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+217##isobaricInhPa##500##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+218##isobaricInhPa##500##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+219##isobaricInhPa##500##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+220##isobaricInhPa##500##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+221##isobaricInhPa##500##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+222##isobaricInhPa##500##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+223##isobaricInhPa##500##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+224##isobaricInhPa##500##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+225##isobaricInhPa##500##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+226##isobaricInhPa##500##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+227##isobaricInhPa##500##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+228##isobaricInhPa##550##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+229##isobaricInhPa##550##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+230##isobaricInhPa##550##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+231##isobaricInhPa##550##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+232##isobaricInhPa##550##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+233##isobaricInhPa##550##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+234##isobaricInhPa##550##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+235##isobaricInhPa##550##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+236##isobaricInhPa##550##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+237##isobaricInhPa##550##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+238##isobaricInhPa##550##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+239##isobaricInhPa##550##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+240##isobaricInhPa##550##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+241##isobaricInhPa##550##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+242##isobaricInhPa##600##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+243##isobaricInhPa##600##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+244##isobaricInhPa##600##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+245##isobaricInhPa##600##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+246##isobaricInhPa##600##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+247##isobaricInhPa##600##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+248##isobaricInhPa##600##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+249##isobaricInhPa##600##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+250##isobaricInhPa##600##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+251##isobaricInhPa##600##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+252##isobaricInhPa##600##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+253##isobaricInhPa##600##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+254##isobaricInhPa##600##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+255##isobaricInhPa##600##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+256##isobaricInhPa##650##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+257##isobaricInhPa##650##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+258##isobaricInhPa##650##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+259##isobaricInhPa##650##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+260##isobaricInhPa##650##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+261##isobaricInhPa##650##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+262##isobaricInhPa##650##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+263##isobaricInhPa##650##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+264##isobaricInhPa##650##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+265##isobaricInhPa##650##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+266##isobaricInhPa##650##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+267##isobaricInhPa##650##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+268##isobaricInhPa##650##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+269##isobaricInhPa##650##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+270##isobaricInhPa##700##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+271##isobaricInhPa##700##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+272##isobaricInhPa##700##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+273##isobaricInhPa##700##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+274##isobaricInhPa##700##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+275##isobaricInhPa##700##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+276##isobaricInhPa##700##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+277##isobaricInhPa##700##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+278##isobaricInhPa##700##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+279##isobaricInhPa##700##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+280##isobaricInhPa##700##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+281##isobaricInhPa##700##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+282##isobaricInhPa##700##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+283##isobaricInhPa##700##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+284##isobaricInhPa##700##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+285##isobaricInhPa##750##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+286##isobaricInhPa##750##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+287##isobaricInhPa##750##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+288##isobaricInhPa##750##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+289##isobaricInhPa##750##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+290##isobaricInhPa##750##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+291##isobaricInhPa##750##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+292##isobaricInhPa##750##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+293##isobaricInhPa##750##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+294##isobaricInhPa##750##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+295##isobaricInhPa##750##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+296##isobaricInhPa##750##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+297##isobaricInhPa##750##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+298##isobaricInhPa##750##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+299##isobaricInhPa##800##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+300##isobaricInhPa##800##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+301##isobaricInhPa##800##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+302##isobaricInhPa##800##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+303##isobaricInhPa##800##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+304##isobaricInhPa##800##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+305##isobaricInhPa##800##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+306##isobaricInhPa##800##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+307##isobaricInhPa##800##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+308##isobaricInhPa##800##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+309##isobaricInhPa##800##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+310##isobaricInhPa##800##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+311##isobaricInhPa##800##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+312##isobaricInhPa##800##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+313##isobaricInhPa##850##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+314##isobaricInhPa##850##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+315##isobaricInhPa##850##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+316##isobaricInhPa##850##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+317##isobaricInhPa##850##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+318##isobaricInhPa##850##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+319##isobaricInhPa##850##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+320##isobaricInhPa##850##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+321##isobaricInhPa##850##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+322##isobaricInhPa##850##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+323##isobaricInhPa##850##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+324##isobaricInhPa##850##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+325##isobaricInhPa##850##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+326##isobaricInhPa##850##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+327##isobaricInhPa##850##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+328##isobaricInhPa##900##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+329##isobaricInhPa##900##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+330##isobaricInhPa##900##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+331##isobaricInhPa##900##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+332##isobaricInhPa##900##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+333##isobaricInhPa##900##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+334##isobaricInhPa##900##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+335##isobaricInhPa##900##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+336##isobaricInhPa##900##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+337##isobaricInhPa##900##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+338##isobaricInhPa##900##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+339##isobaricInhPa##900##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+340##isobaricInhPa##900##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+341##isobaricInhPa##900##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+342##isobaricInhPa##925##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+343##isobaricInhPa##925##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+344##isobaricInhPa##925##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+345##isobaricInhPa##925##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+346##isobaricInhPa##925##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+347##isobaricInhPa##925##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+348##isobaricInhPa##925##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+349##isobaricInhPa##925##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+350##isobaricInhPa##925##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+351##isobaricInhPa##925##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+352##isobaricInhPa##925##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+353##isobaricInhPa##925##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+354##isobaricInhPa##925##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+355##isobaricInhPa##925##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+356##isobaricInhPa##950##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+357##isobaricInhPa##950##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+358##isobaricInhPa##950##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+359##isobaricInhPa##950##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+360##isobaricInhPa##950##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+361##isobaricInhPa##950##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+362##isobaricInhPa##950##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+363##isobaricInhPa##950##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+364##isobaricInhPa##950##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+365##isobaricInhPa##950##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+366##isobaricInhPa##950##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+367##isobaricInhPa##950##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+368##isobaricInhPa##950##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+369##isobaricInhPa##950##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+370##surface##0##Haines Index##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+371##isobaricInhPa##975##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+372##isobaricInhPa##975##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+373##isobaricInhPa##975##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+374##isobaricInhPa##975##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+375##isobaricInhPa##975##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+376##isobaricInhPa##975##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+377##isobaricInhPa##975##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+378##isobaricInhPa##975##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+379##isobaricInhPa##975##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+380##isobaricInhPa##975##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+381##isobaricInhPa##975##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+382##isobaricInhPa##975##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+383##isobaricInhPa##975##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+384##isobaricInhPa##975##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+385##isobaricInhPa##1000##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+386##isobaricInhPa##1000##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+387##isobaricInhPa##1000##Total Cloud Cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+388##isobaricInhPa##1000##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+389##isobaricInhPa##1000##Geometric vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+390##isobaricInhPa##1000##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+391##isobaricInhPa##1000##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+392##isobaricInhPa##1000##Absolute vorticity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+393##isobaricInhPa##1000##Cloud mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+394##isobaricInhPa##1000##Ice water mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+395##isobaricInhPa##1000##Rain mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+396##isobaricInhPa##1000##Snow mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+397##isobaricInhPa##1000##Graupel (snow pellets)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+398##isobaricInhPa##1000##Ozone mixing ratio##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+399##meanSea##0##MSLP (Eta model reduction)##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+400##isobaricInhPa##1000##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+401##surface##0##Surface pressure##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+402##surface##0##Orography##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+403##surface##0##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+404##depthBelowLandLayer##0##Soil Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+405##depthBelowLandLayer##0##Volumetric soil moisture content##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+406##depthBelowLandLayer##0##Soil Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+407##depthBelowLandLayer##0##Volumetric soil moisture content##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+408##depthBelowLandLayer##0##Soil Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+409##depthBelowLandLayer##0##Volumetric soil moisture content##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+410##depthBelowLandLayer##1##Soil Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+411##depthBelowLandLayer##1##Volumetric soil moisture content##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+412##surface##0##Water equivalent of accumulated snow depth##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+413##surface##0##Snow depth##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+414##heightAboveGround##2##2 metre temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+415##heightAboveGround##2##Specific humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+416##heightAboveGround##2##2 metre dewpoint temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+417##heightAboveGround##2##2 metre relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+418##heightAboveGround##2##Apparent temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+419##heightAboveGround##10##10 metre U wind component##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+420##heightAboveGround##10##10 metre V wind component##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+421##heightAboveSea##10##Ice growth rate##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+422##surface##0##Percent frozen precipitation##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+423##surface##0##Precipitation rate##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+424##surface##0##Categorical snow##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+425##surface##0##Categorical ice pellets##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+426##surface##0##Categorical freezing rain##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+427##surface##0##Categorical rain##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+428##surface##0##Wilting Point##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+429##surface##0##Field Capacity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+430##surface##0##Sunshine Duration##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+431##surface##0##Surface lifted index##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+432##surface##0##Convective available potential energy##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+433##surface##0##Convective inhibition##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+434##unknown##0##Precipitable water##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+435##unknown##0##Cloud water##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+436##unknown##0##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+437##unknown##0##Total ozone##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+438##heightAboveGroundLayer##3000##Storm relative helicity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+439##heightAboveGroundLayer##6000##U-component storm motion##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+440##heightAboveGroundLayer##6000##V-component storm motion##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+441##tropopause##0##Pressure##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+442##tropopause##0##ICAO Standard Atmosphere reference height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+443##tropopause##0##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+444##tropopause##0##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+445##tropopause##0##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+446##tropopause##0##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+447##tropopause##0##Vertical speed shear##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+448##maxWind##0##Pressure##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+449##maxWind##0##ICAO Standard Atmosphere reference height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+450##maxWind##0##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+451##maxWind##0##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+452##maxWind##0##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+453##maxWind##0##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+454##heightAboveGround##20##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+455##heightAboveGround##20##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+456##heightAboveGround##30##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+457##heightAboveGround##30##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+458##heightAboveGround##40##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+459##heightAboveGround##40##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+460##heightAboveGround##50##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+461##heightAboveGround##50##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+462##heightAboveGround##80##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+463##heightAboveGround##80##Specific humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+464##heightAboveGround##80##Pressure##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+465##heightAboveGround##80##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+466##heightAboveGround##80##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+467##heightAboveGround##100##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+468##heightAboveGround##100##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+469##heightAboveGround##100##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+470##heightAboveSea##1829##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+471##heightAboveSea##1829##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+472##heightAboveSea##1829##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+473##heightAboveSea##2743##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+474##heightAboveSea##2743##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+475##heightAboveSea##2743##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+476##heightAboveSea##3658##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+477##heightAboveSea##3658##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+478##heightAboveSea##3658##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+479##isothermZero##0##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+480##isothermZero##0##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+481##unknown##0##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+482##unknown##0##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+483##pressureFromGroundLayer##3000##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+484##pressureFromGroundLayer##3000##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+485##pressureFromGroundLayer##3000##Specific humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+486##pressureFromGroundLayer##3000##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+487##pressureFromGroundLayer##3000##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+488##surface##0##Best (4-layer) lifted index##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+489##pressureFromGroundLayer##18000##Convective available potential energy##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+490##pressureFromGroundLayer##18000##Convective inhibition##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+491##surface##0##Planetary boundary layer height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+492##sigmaLayer##0##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+493##sigmaLayer##0##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+494##sigmaLayer##1##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+495##sigmaLayer##0##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+496##sigma##1##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+497##sigma##1##Potential temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+498##sigma##1##Relative humidity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+499##sigma##1##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+500##sigma##1##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+501##sigma##1##Vertical velocity##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+502##pressureFromGroundLayer##25500##Convective available potential energy##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+503##pressureFromGroundLayer##25500##Convective inhibition##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+504##pressureFromGroundLayer##25500##Pressure of level from which parcel was lifted##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+505##surface##0##Land-sea mask##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+506##surface##0##Sea-ice cover##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+507##potentialVorticity##2##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+508##potentialVorticity##2##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+509##potentialVorticity##2##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+510##potentialVorticity##2##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+511##potentialVorticity##2##Pressure##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+512##potentialVorticity##2##Vertical speed shear##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+513##potentialVorticity##2147486##U component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+514##potentialVorticity##2147486##V component of wind##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+515##potentialVorticity##2147486##Temperature##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+516##potentialVorticity##2147486##Geopotential Height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+517##potentialVorticity##2147486##Pressure##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+518##potentialVorticity##2147486##Vertical speed shear##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+519##meanSea##0##Pressure reduced to MSL##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+520##isobaricInhPa##500##5-wave geopotential height##2020-06-01 00:00:00##2020-06-01 00:00:00##0
+521##surface##0##Land-sea coverage (nearest neighbor) [land=1,sea=0]##2020-06-01 00:00:00##2020-06-01 00:00:00##0
